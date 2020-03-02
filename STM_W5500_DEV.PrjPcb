@@ -127,82 +127,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for STM_W5500_DEV\Design Rule Check - STM_W5500.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for STM_W5500_DEV\Produktion\STM_W5500-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for STM_W5500_DEV\Produktion\STM_W5500-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for STM_W5500_DEV\Produktion\STM_W5500.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for STM_W5500_DEV\Produktion\STM_W5500.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for STM_W5500_DEV\Produktion\STM_W5500.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for STM_W5500_DEV\Produktion\STM_W5500.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for STM_W5500_DEV\Produktion\STM_W5500.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for STM_W5500_DEV\Produktion\STM_W5500.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for STM_W5500_DEV\Produktion\STM_W5500.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for STM_W5500_DEV\Produktion\STM_W5500.GM11
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for STM_W5500_DEV\Produktion\STM_W5500.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for STM_W5500_DEV\Produktion\STM_W5500.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for STM_W5500_DEV\Produktion\STM_W5500.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for STM_W5500_DEV\Produktion\STM_W5500.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for STM_W5500_DEV\Produktion\STM_W5500.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for STM_W5500_DEV\Produktion\STM_W5500.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for STM_W5500_DEV\Produktion\STM_W5500.REP
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for STM_W5500_DEV\Produktion\STM_W5500.RUL
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -345,7 +269,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=OneNote
+TargetPrinter=DYMO LabelWriter 450 DUO Tape
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
