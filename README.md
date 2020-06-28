@@ -1,5 +1,13 @@
 # STM32_W5500_Dev
 
+
+## Bug
+
+### V1.1
+- USB-C Buchse DP und DN vertauscht => Nur für Strom zu gebauchen
+- USB-c buchse keine Pull Down für funktion USB-C => USB-C
+- Fehlender Puffercondensator am POE Module => Starkes fiepen
+
 ## Features
 
 - STM32F103
