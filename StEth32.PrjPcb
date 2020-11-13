@@ -74,7 +74,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OLJVLJXJ
 
 [Document3]
 DocumentPath=StEth32_µC.SchDoc
@@ -91,7 +91,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RIGISEKY
 
 [Document4]
 DocumentPath=StEth32_Power.SchDoc
@@ -108,7 +108,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QDAELBXR
 
 [Document5]
 DocumentPath=StEth32_W5500.SchDoc
@@ -125,7 +125,11 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RBDYPUAF
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for StEth32\Design Rule Check - StEth32.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources

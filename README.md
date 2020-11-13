@@ -37,4 +37,33 @@
 | PB2   |   IO     | **17** | **18** | N.C.      |         |        
 |       |   GND    | **19** | **20** | GND       |         |                          
                        
- [ Hier Bild von Platine mit Anschluss Beschreibungen einfügen]
+## Intern verwendete Pins
+
+### Ethernet SPI
+
+Der Ethernet Chip W5500 hängt auf dem SPI2 des STM32:
+
+    MOSI => PB15
+    MISO => PB14
+    SCK  => PB13
+    CS   => PB12
+    INT  => PA8
+
+### Serial RS485
+
+Der MAX485 hängt an den Pins für den Serial1 des STM32
+ 
+    RX => PB11
+    TX => PB10
+    EN => PB1
+
+### Staus Led
+
+    LED => PC13 LOW aktiv
+
+### MOSFET Ausgänge
+
+    T1 => PB3
+    T2 => PA15
+    T3 => PB5
+    T4 => PB4

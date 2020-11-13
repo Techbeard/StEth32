@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [StEth32.PcbDoc]
+   Generated File[StEth32-RoundHoles.TXT]
+   Generated File[StEth32-SlotHoles.TXT]
+   Generated File[StEth32.LDP]
+   Generated File[StEth32.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 17:30:45 On 24.07.2020
