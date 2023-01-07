@@ -1,0 +1,7 @@
+Change Physical Footprint: Designator=IC4 Old Footprint=POE_Module New Footprint=POE_Module
+Change Physical Footprint: Designator=IC5 Old Footprint=SOT23-6 New Footprint=SOT23-6
+Change Physical Footprint: Designator=T1 Old Footprint=SOT23 New Footprint=SOT23
+Change Physical Footprint: Designator=T2 Old Footprint=SOT23 New Footprint=SOT23
+Change Physical Footprint: Designator=T3 Old Footprint=SOT23 New Footprint=SOT23
+Change Physical Footprint: Designator=T4 Old Footprint=SOT23 New Footprint=SOT23
+Change Physical Footprint: Designator=T5 Old Footprint=SOT23 New Footprint=SOT23
